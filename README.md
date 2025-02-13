@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h3>Connect with me:<img src="https://github.com/525UmerYousaf/525UmerYousaf/blob/main/svg/Handshake.gif" height="35"></h3>
+
 <!--
 **525UmerYousaf/525UmerYousaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
