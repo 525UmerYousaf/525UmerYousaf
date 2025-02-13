@@ -1,3 +1,4 @@
+
 <!-- Welcome to my Profile. Don't forget to change the links with your own links. If you found this Readme profile useful don't forget to ⭐ it.
 
 This profile focusses on new addition about customizing your git with : -
@@ -36,7 +37,8 @@ This profile focusses on new addition about customizing your git with : -
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=525UmerYousaf&show_icons=true&locale=en&layout=compact" alt="pravesh-sudha" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=525UmerYousaf&show_icons=true" alt="zulaikha_stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=525UmerYousaf&show_icons=true&locale=en&layout=compact" alt="umer_stats"/>
 
 <p align="center">
 <picture>
