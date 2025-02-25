@@ -34,7 +34,7 @@ const 525UmerYousaf = {
   age: "25",
   pronouns: "He" | "Him",
   code: [Dart, Python, Swift, Ruby, Python, Java],
-  tools: [ReactJS, NextJS, NodeJS],
+  tools: [Flutter, Firebase, React, ReactJS],
   socials: {
     LinkedIN: "in/Umer Yousaf",
     FACEBOOK: "Umer Yousaf",
@@ -66,6 +66,14 @@ const 525UmerYousaf = {
 </p>
 
 ## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40">  &nbsp;**Tools:**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:**
 
@@ -121,3 +129,5 @@ const 525UmerYousaf = {
   <img src="https://komarev.com/ghpvc/?username=525UmerYousaf&label=Visitors&color=0e75b6&style=flat" alt = "Visitors" />
 </p>
 <!--  Above is the Thanks for visiting section-->
+
+<h4 align="center">Open Source Contributor from <b>Pakistan<b> 💚 
