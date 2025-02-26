@@ -75,7 +75,7 @@ const 525UmerYousaf = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:**
+<!-- ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:** -->
 
 <p align="center">
   <table>
@@ -96,6 +96,7 @@ const 525UmerYousaf = {
 <!--  <img height="180em" src="https://streak-stats.demolab.com?user=525UmerYousaf&theme=radical" alt="umer_stats" />  -->
 
 <!--  Below is Custom Snake Animation section-->
+<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-00/Abhishek-00/output/github-contribution-grid-snake-dark.svg">
@@ -103,6 +104,7 @@ const 525UmerYousaf = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishek-00/Abhishek-00/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
+-->
 <!--  Above is Custom Snake Animation section-->
 
 <!--  Below is Random Developer Quote section-->
