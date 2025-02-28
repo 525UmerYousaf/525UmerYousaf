@@ -76,7 +76,7 @@ const 525UmerYousaf = {
 
 
 <!-- ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:** -->
-
+## 📊 My Statistics:
 <p align="center">
   <table>
     <tr>
