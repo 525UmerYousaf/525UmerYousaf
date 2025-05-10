@@ -10,21 +10,47 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- Awesome bio with some cool Preformatted text.  -->
 <!-- Start here... -->
-<!--  Introductory one liner start  -->
+<!--  Name And Job Title Header  -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer Gif" alt="Programmer coding gif" height="300" width="500">
+  <a href="https://github.com/525UmerYousaf">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Umer%20Yousaf&fontAlignY=30&desc=Flutter%20App%20Developer&descAlignY=55&animation=fadeIn&fontColor=ffffff" alt="header" width="100%" />
+  </a>
 </div>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&duration=2000&center=false&vCenter=true&multiline=true&width=300&height=40&lines=Hi%2C+I'm+Umer+Yousaf" alt="Typing SVG"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height=35 width=35 alt="Wave GIF">
+<!--  Introductory text with waving hand giff  -->
+<p align="center">
+  <span style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 600; line-height: 1.6; display: inline-flex; align-items: center; gap: 8px; text-align: center;">
+    I have experience building beautiful cross-platform experiences.<br>
+    Let's connect and build something awesome
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="24" alt="👋" style="margin-left: 6px;" />
+  </span>
 </p>
-<p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Enthusiast+👨‍💻+...+;Tech+Explorer+and+Innovator+🚀;"center=false&size=20&duration=2500>
-</p>
-<!--  Introductory one liner end  -->
+
+<!-- Animated Social Media Links -->
+<div align="center">
+  <a href="mailto:umer.yousaf.587@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=AA3A2A" />
+  </a>
+  <a href="https://www.linkedin.com/in/umer-yousaf-71b4b91a5">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&labelColor=0A66C2" />
+</a>
+  <a href="https://api.whatsapp.com/send?phone=923161419890">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1DA851" />
+  </a>
+</div>
 
 <!-- Own made custom gradient divider -->
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      ## 👨‍💻 About Me
+
+      Results-driven Flutter Mobile App Developer with 3 years of experience building cross-platform applications for Android and iOS. Delivered end-to-end solutions from concept to deployment for e-commerce, productivity, and fintech projects, leveraging a versatile skill set across front-end and back-end development.
+    </td>
+  </tr>
+</table>
 
 <!--  Coding introduction of mine  -->
 ###  About Me
