@@ -91,6 +91,16 @@ This profile focusses on new addition about customizing your git with : -
 </tr>
 </table>
 
+
+## 🔍 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_State_Management-7C4DFF?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/UI_Animations-FF5252?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/Performance_Optimization-8B5CF6?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/Flutter_3.0+-02569B?style=flat-square&logo=flutter" />
+</p>
+
 <!--  Coding introduction of mine  -->
 ###  About Me
 ```jsx
