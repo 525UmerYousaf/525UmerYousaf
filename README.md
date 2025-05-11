@@ -52,6 +52,45 @@ This profile focusses on new addition about customizing your git with : -
   </tr>
 </table>
 
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+</p>
+
+<table align="center" border="0">
+<tr>
+<td width="60%">
+
+### 💪 What Sets Me Apart
+
+- ⚡ **Performance-First Approach**: Flutter apps that run smoothly, even on lower-end devices
+- 🔧 **Clean, Maintainable Code**: Following best practices and design patterns
+- 🎨 **User-Centered Design**: Creating intuitive interfaces users love
+- 🧩 **Problem Solver**: Turning complex requirements into elegant solutions
+- 📚 **Continuous Learner**: Always exploring new technologies
+
+</td>
+<td width="40%">
+
+### 📊 Key Skills
+
+| Skill | Level |
+|-------|-------|
+| Flutter | ⭐⭐⭐⭐⭐ 95% |
+| Dart | ⭐⭐⭐⭐⭐ 95% |
+| Firebase | ⭐⭐⭐⭐⭐ 90% |
+| UI/UX Design | ⭐⭐⭐⭐ 85% |
+| App Architecture | ⭐⭐⭐⭐⭐ 90% |
+
+</td>
+</tr>
+</table>
+
 <!--  Coding introduction of mine  -->
 ###  About Me
 ```jsx
