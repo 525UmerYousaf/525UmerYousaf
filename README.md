@@ -42,15 +42,42 @@ This profile focusses on new addition about customizing your git with : -
 <!-- Own made custom gradient divider -->
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      ## 👨‍💻 About Me
 
-      Results-driven Flutter Mobile App Developer with 3 years of experience building cross-platform applications for Android and iOS. Delivered end-to-end solutions from concept to deployment for e-commerce, productivity, and fintech projects, leveraging a versatile skill set across front-end and back-end development.
-    </td>
-  </tr>
-</table>
+
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
+
+<h2>👨‍💻 About Me</h2>
+
+I'm a <strong>Flutter Developer</strong> who builds experiences that users actually want to use. After shipping 20+ freelance projects across multiple platforms, I've developed a knack for turning complex problems into elegant solutions.
+
+- 👨‍🎓 IT Graduate from <strong>University of Punjab</strong>  
+- 🚀 Building <strong>cross-platform apps</strong> that feel native  
+- 🌱 Learning <strong>Design Patterns & Architecture</strong>  
+- 🎮 When AFK: Always available for friendly match 
+- 🎯 Secret talent: Attentive to even the smallest details
+
+</td>
+<td width="50%" valign="top">
+
+<h2>🌟 Highlights</h2>
+
+```js
+const 525UmerYousaf = {
+  name: "Umer Yousaf",
+  code: ["Dart", "Python", "Swift"],
+  tools: ["Flutter", "Firebase", "React"],
+  projects: {
+    iOS: "HarborHaul, OloSt",
+    Android: "HarborHaul, OloSt"
+    Web-App: "MySoftCredit"
+  },
+  funFact: "Coding is my passion!"
+}
+```
+</td> </tr> </table> 
+
 
 ## 🛠 Tech Stack
 
@@ -61,6 +88,14 @@ This profile focusses on new addition about customizing your git with : -
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
 
 <table align="center" border="0">
 <tr>
@@ -101,31 +136,8 @@ This profile focusses on new addition about customizing your git with : -
   <img src="https://img.shields.io/badge/Flutter_3.0+-02569B?style=flat-square&logo=flutter" />
 </p>
 
-<!--  Coding introduction of mine  -->
-###  About Me
-```jsx
-const 525UmerYousaf = {
-  name: "Umer Yousaf",
-  age: "25",
-  pronouns: "He" | "Him",
-  code: [Dart, Python, Swift, Ruby, Python, Java],
-  tools: [Flutter, Firebase, React, ReactJS],
-  socials: {
-    LinkedIN: "in/Umer Yousaf",
-    FACEBOOK: "Umer Yousaf",
-  },
-  projects: {
-    HarborHaul-iOS: "https://apps.apple.com/pk/app/harborhaul/id6470716457",
-    HarborHaul-Android: "https://play.google.com/store/apps/details?id=com.obraj.harborHaul&pcampaignid=web_share",
-    OloSt-iOS: "olostios.vercel.app",
-    OloSt-Android: "olostandroid.vercel.app",
-  },
-  Fun Fact: "Coding is my passion!",
-}
-```
-<br>
-
 <!-- Below is contact with me section  -->
+<!-- 
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40">&nbsp; <strong style="font-size:24px;">Connect with Me !!</strong>&nbsp; <img src="https://raw.githubusercontent.com/525UmerYousaf/525UmerYousaf/main/svg/Handshake.gif" height="33">
 
 <p align="left">
@@ -139,20 +151,11 @@ const 525UmerYousaf = {
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@praveshstwt" height="30" width="40" />
   </a>
 </p>
-
-## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40">  &nbsp;**Tools:**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+  -->
 
 <!-- ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:** -->
 ## 📊 My Statistics:
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <!-- Image 1 (Left Side) -->
@@ -167,7 +170,8 @@ const 525UmerYousaf = {
       </td>
     </tr>
   </table>
-</p>
+</div>
+
 <!--  <img height="180em" src="https://streak-stats.demolab.com?user=525UmerYousaf&theme=radical" alt="umer_stats" />  -->
 
 <!--  Below is Custom Snake Animation section-->
@@ -184,7 +188,9 @@ const 525UmerYousaf = {
 
 <!--  Below is Random Developer Quote section-->
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
+</p>
 <!--  Above is Random Developer Quote section-->
 
 <!--  Below is the testimonial section-->
